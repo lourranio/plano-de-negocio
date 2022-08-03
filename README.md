@@ -18,3 +18,15 @@ https://contabnet.com.br/blog/tipos-de-empresa/
 * Texto complementar para a aula:
 
   https://endomarketing.tv/missao-visao-e-valores/#.XpSrrPJKjeQ
+
+
+* Acesso às Ferramentas Online Google Trends:
+```https://trends.google.com.br/trends/?geo=BR```
+
+Google Ads:
+
+  https://ads.google.com/intl/pt_BR/home/
+
+Ubersuggest:
+  
+  https://neilpatel.com/br/ubersuggest/
