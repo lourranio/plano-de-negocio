@@ -32,6 +32,6 @@ Ubersuggest:
   https://neilpatel.com/br/ubersuggest/
 
 
-Matriz SWOT ou Matriz FOFA: utilizando a Análise SWOT para conhecer as cartas do jogo e aumentar as chances de vitória de sua empresa!
+* Matriz SWOT ou Matriz FOFA: utilizando a Análise SWOT para conhecer as cartas do jogo e aumentar as chances de vitória de sua empresa!
 
   ```https://www.treasy.com.br/blog/matriz-swot-analise-swot-matriz-fofa/```
