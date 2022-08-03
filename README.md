@@ -39,3 +39,12 @@ Ubersuggest:
 ### Layout e estrutura
 
 ```https://floorplanner.com/```
+
+
+
+### Tabelas Simples Nacional 
+
+1. https://www.azulis.com.br/artigo/tabela-simples-nacional-2019
+2. https://www.contar.com.br/tabela-simples-nacional/
+3. https://www.jornalcontabil.com.br/tabela-de-aliquotas-do-simples-nacional-2020/
+
